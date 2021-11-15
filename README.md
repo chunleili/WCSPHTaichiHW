@@ -15,7 +15,7 @@
 
 ## 成功效果展示
 
-![demo](./data/demo.jpg)
+![demo](./data/demo.gif)
 
 ## 整体结构（Optional）
 ```
